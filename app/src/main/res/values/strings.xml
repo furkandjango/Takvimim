@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Takvimim</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mod">com.example.takvimim.mod</string>
+    <string name="voice">com.example.takvimim.voice</string>
+    <string name="repeat">com.example.takvimim.repear</string>
+</resources>
